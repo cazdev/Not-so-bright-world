@@ -4,6 +4,8 @@
 
 # [Play game here](https://cazdev.itch.io/not-so-bright-world)
 
+This game includes 4 levels as well as a final boos fight.  This game can be played through a web browser using unity Web-GL. 
+
 Controls:
 - W - Jump
 - A - Move left
